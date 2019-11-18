@@ -1,2 +1,3 @@
 # orani-g-r
-ORANI-G model in R
+
+Este repositório contém uma implementação do modelo ORANI-G no R. O modelo é escrito usando o pacote [`emr`](github.com/paulofelipe/emr).
